@@ -6,3 +6,5 @@ Change in master
 
 2nd Change in master
 3nd Change in master
+change in test2
+2nd change in test2
